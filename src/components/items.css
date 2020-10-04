@@ -1,0 +1,14 @@
+.item:nth-of-type(even) {
+    background: #999;
+}
+
+.item:nth-of-type(odd) {
+    background: #ddd;
+}
+
+.item {
+    width: 80%;
+    padding: 10px;
+    border: 2px solid #f6f6f6;
+    margin: 15px auto;
+}
